@@ -1,0 +1,11 @@
+{
+    "name": "net.room127.3d.devset",
+    "version": "0.1.0",
+    "displayName": "Room127 3D Dev Set",
+    "description": "Collection of scripts useful for 3D games",
+    "license": "MIT",
+    "unity": "2020.3",
+    "dependencies": {
+        "net.room127.standarddevset": "0.1.0"
+    }
+}
